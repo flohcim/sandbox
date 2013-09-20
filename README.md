@@ -1,19 +1,13 @@
-atreal.richfile.qualifier
-=========================
+# atreal.richfile.qualifier
 
 
-.. contents::
-
-
-Overview
---------
+## Overview
 
 System to enrich a file content type in Plone with a marker interface
 regarding its mimetype.
 
 
-Description
------------
+## Description
 
 Please note that ``atreal.richfile.qualifier`` is a Plone component for
 developers. Do not expect anything more in your Plone site if you don't use
@@ -40,8 +34,7 @@ ATFile and ATBlob. You can easily configure your own file content type: ::
         />
 
 
-Control Panel
--------------
+## Control Panel
 
 Few options are avalaible in the Control Panel :
 
@@ -58,14 +51,12 @@ portal_catalog, so if you already have contents in your site when you install
 this package, you have to update 'object_provides' index first.
 
 
-Important Notes
----------------
+## Important Notes
 
 The version 1.1.1 of atreal.richfile.qualifier is not Plone 3 compatible ! Please
 use version 1.1.2 instead.
 
-Authors
--------
+## Authors
 
 |atreal|_
 
@@ -80,8 +71,7 @@ Authors
 .. _atReal Team: mailto:contact@atreal.fr
 
 
-Contributors
-------------
+## Contributors
 
 * `atReal Team`_
 
@@ -90,7 +80,7 @@ Contributors
 .. _atReal Team: mailto:contact@atreal.fr
 
 
-Credits
--------
+## Credits
 
 * Sponsorised by City of Albi (France), http://www.mairie-albi.fr/
+
